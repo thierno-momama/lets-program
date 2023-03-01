@@ -15,16 +15,30 @@
       "email": "essaye@gmail.com",
       "mobile": "00",
       "salary": "900000000"
-    }
-  ],
-  "comments": [
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 3,
+      "firstName": "Quoi Juste",
+      "lastName": "Encore",
+      "email": "quoiEncore@gmail.com",
+      "mobile": "90000",
+      "salary": "6464666"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "signupUsers": [
+    {
+      "fullName": "test",
+      "mobile": "09",
+      "email": "test@gmail.com",
+      "password": "test",
+      "id": 1
+    },
+    {
+      "fullName": "encore",
+      "mobile": "90009",
+      "email": "encore@gmail;com",
+      "password": "encore",
+      "id": 2
+    }
+  ]
 }
